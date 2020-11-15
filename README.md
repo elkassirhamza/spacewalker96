@@ -20,8 +20,8 @@
 
 <br />
 
-Hi, I'm [Hmiyed Hassan](http://hassanhmiyed.atwebpages.com/), a Full Stack Developer 🚀 from Morocco, currently, I'm a Student at Youcode 🙍🏽‍♂️ [@CreativeCommons],
-Mentor 👨🏽‍💼[@BITSoC]. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Hmiyed Hassan](http://hassanhmiyed.atwebpages.com/), a Full Stack Developer 🚀 from Morocco, I have bachelor degree at FST beni mellal college ,currently, I'm a Student at Youcode 🙍🏽‍♂️ ,
+Mentor 👨🏽‍💼. Beside's programming, I enjoy eating food and traveling.
 
   
 **Talking about Personal Stuffs:**
