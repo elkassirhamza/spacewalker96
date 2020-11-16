@@ -30,7 +30,7 @@ Mentor 👨🏽‍💼. Beside's programming, I enjoy eating food and traveling.
 - 🌱 I’m currently learning Java and Vuejs; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@hmiyed hassan](https://www.linkedin.com/in/hassan-hmiyed-8455971a1/);
-- 📝[Resume](https://github.com/spacewalker96/cv/blob/master/cv%20image.jpg)
+- 📝[Resume](https://drive.google.com/file/d/1DYn84PMjlOSPcglCQHe3lzOSyWRsrCph/view)
 
 **Languages and Tools:**  
 
